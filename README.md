@@ -11,8 +11,8 @@
 * 🎯 **Future Path:** Aiming to transition into **Fullstack + AI development** step by step, bridging engineering with intelligent applications.
 
 ### ⚙️ Tech Stack & Radar
-* **Frontend Core:** `React 19` / `TypeScript` / `Zustand` / `Vite`
-* **Engineering Tools:** `Git & GitHub` / `ESLint & Prettier` / `pnpm`
+* **Frontend Core:** `React 19` / `TypeScript` / `Zustand` / `React Router`
+* **Engineering Tools:** `Vite` / `Git & GitHub` / `ESLint & Prettier` / `pnpm`
 * **On My Radar:** `Node.js` / `Nest.js` / `AI Application Layer`
 
 ---
