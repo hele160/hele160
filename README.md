@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! I'm <b>Nemilo</b>, a CS student and Frontend Developer from <b>China</b>. I am a project-driven learner who believes the best way to master engineering is by building, breaking, and refactoring real things.</p>
+<p>Welcome to my page! I'm <b>Nemilo</b>, a CS student and Frontend Developer from Hainan University. I am a project-driven learner who believes the best way to master engineering is by building, breaking, and refactoring real things.</p>
 
 ---
 
